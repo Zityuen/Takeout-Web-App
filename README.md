@@ -2,6 +2,20 @@
 
 > A Vue.js project
 
+<h1>Takeout Web Application</h1>
+> <p>Implemented the main part of a real business takeout web applicaiton which is used to deliver foods nearby.</p>
+<hr>
+
+<h3>Framework:</h3>
+<ul>
+  <li>vue-cli</li>
+  <li>vue-router</li>
+  <li>axios</li>
+  <li>webpack</li>
+  <li>better-scroll</li>
+  <li>flex</li>
+</ul>
+
 ## Build Setup
 
 ``` bash
@@ -18,4 +32,3 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
