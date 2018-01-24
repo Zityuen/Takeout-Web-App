@@ -1,4 +1,4 @@
-<h3>Takeout Web Application</h3>
+<h2>Takeout Web Application</h2>
 Implemented the main part of a real business takeout web applicaiton which is used to deliver foods nearby.
 
 <h3>Framework:</h3>
