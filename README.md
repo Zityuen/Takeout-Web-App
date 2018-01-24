@@ -1,9 +1,5 @@
-# seller
-
-> A Vue.js project
-
 <h1>Takeout Web Application</h1>
-> <p>Implemented the main part of a real business takeout web applicaiton which is used to deliver foods nearby.</p>
+<p>Implemented the main part of a real business takeout web applicaiton which is used to deliver foods nearby.</p>
 <hr>
 
 <h3>Framework:</h3>
