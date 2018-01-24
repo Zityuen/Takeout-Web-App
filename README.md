@@ -1,7 +1,7 @@
 # Takeout Web Application
 > Implemented the main part of a real business takeout mobile web applicaiton which is used to deliver foods nearby.
 
-<br>
+<br></br>
 ## Build Setup
 
 ``` bash
