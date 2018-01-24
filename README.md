@@ -1,5 +1,5 @@
 # Takeout Web Application
-<p>Implemented the main part of a real business takeout web applicaiton which is used to deliver foods nearby.</p>
+Implemented the main part of a real business takeout web applicaiton which is used to deliver foods nearby.
 
 <h3>Framework:</h3>
 <ul>
