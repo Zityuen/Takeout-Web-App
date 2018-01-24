@@ -1,15 +1,5 @@
-<h2>Takeout Web Application</h2>
-Implemented the main part of a real business takeout web applicaiton which is used to deliver foods nearby.
-
-<h3>Framework:</h3>
-<ul>
-  <li>vue-cli</li>
-  <li>vue-router</li>
-  <li>axios</li>
-  <li>webpack</li>
-  <li>better-scroll</li>
-  <li>flex</li>
-</ul>
+# Takeout Web Application
+》 Implemented the main part of a real business takeout mobile web applicaiton which is used to deliver foods nearby.
 
 ## Build Setup
 
@@ -27,3 +17,15 @@ npm run build
 npm run build --report
 ```
 
+
+<h3>Framework:</h3>
+<ul>
+  <li><a href="https://github.com/vuejs/vue-cli">vue-cli</a>: A simple CLI for scaffolding Vue.js projects</li>
+  <li><a href="https://github.com/vuejs/vue-router">vue-router</a>: Official router for Vue.js</li>
+  <li><a href="https://github.com/axios/axios">axios</a>: Used to handle with asynchronous request</li>
+  <li><a href="https://github.com/webpack/webpack">webpack</a>: Its main purpose is to bundle JavaScript files for usage in a browser.</li>
+  <li><a href="https://github.com/ustbhuangyi/better-scroll">better-scroll</a>: A plugin which is aimed at solving scrolling circumstances on the mobile side</li>
+  <li>flex: It is used to layout the components in the view more flexible</li>
+</ul>
+
+<h3>Design</h3>
