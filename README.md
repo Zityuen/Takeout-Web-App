@@ -1,3 +1,8 @@
+webpack vue-cli axios vue-router flex
+
+components better-scroll
+
+
 # Takeout Web Application
 > Implemented the main part of a real business takeout mobile web applicaiton which is used to deliver foods nearby.
 
@@ -29,4 +34,5 @@ npm run build --report
   <li>flex: It is used to layout the components in the view more flexible</li>
 </ul>
 
-<h3>Design</h3>
+## Design
+> the whole web application is made up of many components(./src/components). 
