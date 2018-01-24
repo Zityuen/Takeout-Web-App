@@ -1,5 +1,5 @@
 # Takeout Web Application
-》 Implemented the main part of a real business takeout mobile web applicaiton which is used to deliver foods nearby.
+> Implemented the main part of a real business takeout mobile web applicaiton which is used to deliver foods nearby.
 
 ## Build Setup
 
