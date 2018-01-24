@@ -1,6 +1,7 @@
 # Takeout Web Application
 > Implemented the main part of a real business takeout mobile web applicaiton which is used to deliver foods nearby.
 
+
 ## Build Setup
 
 ``` bash
@@ -18,7 +19,7 @@ npm run build --report
 ```
 
 
-<h3>Framework:</h3>
+## Framework
 <ul>
   <li><a href="https://github.com/vuejs/vue-cli">vue-cli</a>: A simple CLI for scaffolding Vue.js projects</li>
   <li><a href="https://github.com/vuejs/vue-router">vue-router</a>: Official router for Vue.js</li>
