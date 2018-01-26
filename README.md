@@ -6,22 +6,23 @@
 
 <span>App link: <a href="http://www.zityuen.com:8080">Takeout-App(mobile)</a></span>
 ## Preview
-<img width="250" height="445"src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/1.png" alt="the main view">
+<img width="250" height="445" src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/1.png" alt="the main view">
 
 
-<img width="250" height="445"src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/2.png" alt="the shopcart view">
+<img width="250" height="445" src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/2.png" alt="the shopcart view">
 
 
-<img width="250" height="445"src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/3.png" alt="the bulletin detail view">
+<img width="250" height="445" src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/3.png" alt="the bulletin detail view">
 
 
-<img width="250" height="445"src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/4.png" alt="the ratings view">
+<img width="250" height="445" src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/4.png" alt="the ratings view">
 
 
-<img width="250" height="445"src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/6.png" alt="the comment with pics">
+<img width="250" height="445" src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/6.png" alt="the comment with pics">
 
 
-<img width="250" height="445"src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/5.png" alt="the seller view">
+<img width="250" height="445" src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/5.png" alt="the seller view">
+
 
 
 
