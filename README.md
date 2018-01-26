@@ -6,7 +6,7 @@
 
 <span>App link: <a href="http://www.zityuen.com:8080">Takeout-App(mobile)</a></span>
 ## Preview
-<img src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/1.png" style="width:50%;height=50%">
+<img src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/1.png" style="width:50%;height:50%">
 <span>the main view</span>
 
 <img src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/2.png" alt="">
