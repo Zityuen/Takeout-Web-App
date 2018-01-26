@@ -5,6 +5,27 @@
 
 
 <span>App link: <a href="http://www.zityuen.com:8080">Takeout-App(mobile)</a></span>
+## Preview
+<img src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/1.png" alt="">
+<span>the main view</span>
+
+<img src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/2.png" alt="">
+<span>the shopcart view</span>
+
+<img src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/3.png" alt="">
+<span>the bulletin detail view</span>
+
+<img src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/4.png" alt="">
+<span>the ratings view</span>
+
+<img src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/6.png" alt="">
+<span>the comment with pics</span>
+
+<img src="https://github.com/Zityuen/Takeout-Web-App/blob/master/preview/5.png" alt="">
+<span>the seller view</span>
+
+
+
 
 <br></br>
 ## Build Setup
