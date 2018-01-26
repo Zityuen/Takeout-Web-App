@@ -1,7 +1,7 @@
 {
 	"data": {
 		"container_operation_source": {
-			"tag_name": "专场",
+			"tag_name": "Sale",
 			"tag_icon": "http://p1.meituan.net/xianfu/a4167074795cfb33d819fd0590d1545b2048.png",
 			"operation_source_list": [
 				{
@@ -21,57 +21,57 @@
 		},
 		"food_spu_tags": [
 			{
-				"name": "热销",
+				"name": "Hot",
 				"icon": "http://p1.meituan.net/xianfu/10ba72e043ef4eca806cafb1a90a22662048.png",
 				"spus": [
 					{
 						"id": 216599656,
-						"name": "脆香油条",
+						"name": "Crispy fritters",
 						"min_price": 5.5,
 						"praise_num": 3,
-						"praise_content": "赞3",
+						"praise_content": "like 3",
 						"tread_num": 0,
 						"praise_num_new": 3,
-						"unit": "例",
+						"unit": "pcs",
 						"description": "",
 						"picture": "http://p0.meituan.net/xianfu/35f41c0badc69352b886cc34080f1f9a232448.png.webp",
 						"month_saled": 154,
-						"month_saled_content": "月售154",
+						"month_saled_content": "sold 154",
 						"status": 0,
 						"status_description": "",
 						"product_label_picture": "",
 						"rating": {
 							"comment_count": 0,
-							"title": "外卖评价",
-							"snd_title": "暂无",
+							"title": "comment",
+							"snd_title": "N/A",
 							"praise_friends": "",
-							"like_ratio_desc": "好评度",
+							"like_ratio_desc": "good",
 							"like_ratio": "100%",
 							"filter_type": 1,
 							"comment_list": []
 						}
 					}, {
 						"id": 96985579,
-						"name": "麦辣鸡翅2块",
+						"name": "Spicy chicken wings(2pcs)",
 						"min_price": 11,
 						"praise_num": 22,
-						"praise_content": "赞22",
+						"praise_content": "like 22",
 						"tread_num": 0,
 						"praise_num_new": 22,
-						"unit": "例",
+						"unit": "pcs",
 						"description": "",
 						"picture": "http://p0.meituan.net/xianfu/38bbfa3f955cbce3330f1cb6818d0ce6216794.png.webp",
 						"month_saled": 948,
-						"month_saled_content": "月售948",
+						"month_saled_content": "sold 948",
 						"status": 3,
-						"status_description": "非可售时间",
+						"status_description": "close",
 						"product_label_picture": "http://p1.meituan.net/aichequan/04789347d755465713550540942265d36475.png",
 						"rating": {
 							"comment_count": 4,
-							"title": "外卖评价",
-							"snd_title": "4条评论",
+							"title": "comment",
+							"snd_title": "4 comments",
 							"praise_friends": "",
-							"like_ratio_desc": "好评度",
+							"like_ratio_desc": "good",
 							"like_ratio": "100%",
 							"filter_type": 1,
 							"comment_list": [
@@ -80,13 +80,13 @@
 									"user_name": "ejX309524666",
 									"comment_time": "2017.08.31",
 									"comment_unix_time": 1504161290,
-									"comment_content": "#奶油坚果酱中套餐#不好吃。还是奥尔良，麦辣鸡腿那些最经典的汉堡好吃。薯条软得不能再软了。我备注了可乐换芬达也没有换。#麦辣鸡翅2块#就还好，里面的肉挺嫩的，很入味。"
+									"comment_content": "#Nut butter sauce package# is not good. Or Orleans, the most classic burger barley delicious. French fries are no longer soft. I remark Coke for Fanta also did not change. Two spicy chicken wings okay, the meat inside very tender, very tasty."
 								}, {
 									"user_icon": "https://img.meituan.net/avatar/6571c42526237b0118f437418e989d1187445.jpg",
 									"user_name": "EAG789830055",
 									"comment_time": "2017.08.18",
 									"comment_unix_time": 1503030166,
-									"comment_content": "#麦辣鸡翅2块#送错"
+									"comment_content": "delivery wrong"
 								}
 							]
 						}
@@ -393,7 +393,7 @@
 					}
 				]
 			}, {
-				"name": "早餐",
+				"name": "Breakfast",
 				"icon": "",
 				"spus": [
 					{
@@ -655,7 +655,7 @@
 					}
 				]
 			}, {
-				"name": "促销产品和热卖产品",
+				"name": "Sales & Hot",
 				"icon": "",
 				"spus": [
 					{
@@ -903,7 +903,7 @@
 					}
 				]
 			}, {
-				"name": "主食",
+				"name": "Staple",
 				"icon": "",
 				"spus": [
 					{
@@ -1145,7 +1145,7 @@
 					}
 				]
 			} , {
-				"name": "超值套餐",
+				"name": "Combo",
 				"icon": "",
 				"spus": [
 					{
@@ -1479,7 +1479,7 @@
 					}
 				]
 			}, {
-				"name": "小食",
+				"name": "snack",
 				"icon": "",
 				"spus": [
 					{
@@ -1869,7 +1869,7 @@
 					}
 				]
 			}, {
-				"name": "饮品",
+				"name": "drink",
 				"icon": "",
 				"spus": [
 					{
@@ -2065,7 +2065,7 @@
 					}
 				]
 			}, {
-				"name": "甜品",
+				"name": "dessert",
 				"icon": "",
 				"spus": [
 					{
@@ -2227,7 +2227,7 @@
 					}
 				]
 			}, {
-				"name": "开心乐园餐",
+				"name": "special combo",
 				"icon": "",
 				"spus": [
 					{
@@ -2365,18 +2365,18 @@
 			}
 		],
 		"poi_info": {
-			"name": "深圳麦当劳明智餐厅",
+			"name": "McDonald's in Shenzhen",
 			"shipping_time": "00:00-04:45,05:00-10:15,10:30-23:59",
 			"wm_poi_score":4.7,
 			"discounts2": [
 				{
-					"info": "新用户立减17元,首次使用银行卡支付最高再减3元",
+					"info": "new users 50% discount!",
 					"icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png"
 				}
 			],
-			"shipping_fee_tip": "配送 ¥9",
-			"min_price_tip": "起送 ¥0",
-			"delivery_time_tip": "30分钟",
+			"shipping_fee_tip": "delivery $9",
+			"min_price_tip": "min $0",
+			"delivery_time_tip": "30min",
 			"poi_back_pic_url": "http://p1.meituan.net/aichequan/dfd39d77d47dfd6df4e1c07ab2e87458193641.png.webp",
 			"pic_url": "http://p0.meituan.net/xianfu/fd3a8462080c71f60f2581c2e7c1d3f43010.jpeg.webp",
 			"head_pic_url": "http://p0.meituan.net/xianfu/19c002c5963a289206e756092995a2fe230070.jpg"

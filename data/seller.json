@@ -3,9 +3,9 @@
 		"id": 495579,
 		"status": 1,
 		"status_desc": "",
-		"name": "深圳麦当劳明智餐厅",
+		"name": "McDonald's in Shenzhen",
 		"call_center": "4000517117",
-		"address": "广东省深圳市宝安区明治大道潜龙鑫茂花园",
+		"address": "Xinmao Garden, Baoan District, Shenzhen, Guangdong",
 		"pic_url": "http://p0.meituan.net/xianfu/fd3a8462080c71f60f2581c2e7c1d3f43010.jpeg.webp",
 		"shipping_time": "00:00-04:45,05:00-10:15,10:30-23:59",
 		"shipping_fee": 9,
@@ -23,14 +23,14 @@
 			{
 				"id": 1,
 				"type": 4,
-				"info": "新用户立减17元,首次使用银行卡支付最高再减3元(在线支付专享)",
+				"info": "new users 50% discount!",
 				"icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
 				"use_icon_from_server": 1,
 				"display_code": 2,
 				"sequence": 3
 			}
 		],
-		"app_delivery_tip": "由 商家 提供配送服务",
+		"app_delivery_tip": "deliveried by seller",
 		"warn_tips": "",
 		"support_pay": 1,
 		"invoice_support": 1,

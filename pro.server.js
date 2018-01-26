@@ -7,11 +7,12 @@ var app = express();
 var router = express.Router();
 router.get('/', function(req,res,next){
 	req.url = '/index.html';
+//	res.render(__dirname + 'index.html');
+//console.log("nimabi");
 	next();
 });
 
 app.use(router);
-
 
 
 // 接口数据

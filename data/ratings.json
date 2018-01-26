@@ -1134,32 +1134,32 @@
 		"labels": [
 			{
 				"label_id": 75,
-				"content": "味道赞",
+				"content": "tasty",
 				"label_count": 45,
 				"label_star": 5
 			}, {
 				"label_id": 39,
-				"content": "服务好",
+				"content": "good service",
 				"label_count": 20,
 				"label_star": 5
 			}, {
 				"label_id": 34,
-				"content": "满意",
+				"content": "satisfied",
 				"label_count": 11,
 				"label_star": 5
 			}, {
 				"label_id": 38,
-				"content": "少送错送",
+				"content": "deliery wrong",
 				"label_count": 5,
 				"label_star": 0
 			}, {
 				"label_id": 62,
-				"content": "贵",
+				"content": "expensive",
 				"label_count": 4,
 				"label_star": 0
 			}, {
 				"label_id": 80,
-				"content": "早餐",
+				"content": "breakfast",
 				"label_count": 3,
 				"label_star": 5
 			}
@@ -1185,15 +1185,15 @@
 			{
 				"comment_score_type": 0,
 				"total_count": 3683,
-				"comment_score_title": "全部"
+				"comment_score_title": "All"
 			}, {
 				"comment_score_type": 5,
 				"total_count": 50,
-				"comment_score_title": "有图"
+				"comment_score_title": "With pics"
 			}, {
 				"comment_score_type": 21,
 				"total_count": 51,
-				"comment_score_title": "点评(3.5分)"
+				"comment_score_title": "comments"
 			}
 		],
 		"comments_dp": {
